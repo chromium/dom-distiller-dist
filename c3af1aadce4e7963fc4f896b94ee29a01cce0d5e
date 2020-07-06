@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7975fde6_eaaebd3e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1303432
+      },
+      "writtenOn": "2020-07-06T19:17:28Z",
+      "side": 1,
+      "message": "Anyone doing a direct push to refs/heads/* is bypassing code review and thus the OWNERS system as well. Is there another cria or google group that would be more appropriate? Or we could create a new Gerrit group for you. All this is generally best done by working with the git admin on duty for the week by filing a ticket at go/fix-chrome-git.",
+      "revId": "c3af1aadce4e7963fc4f896b94ee29a01cce0d5e",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba",
+      "unresolved": false
+    }
+  ]
+}

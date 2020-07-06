@@ -34,6 +34,24 @@
       "revId": "c3af1aadce4e7963fc4f896b94ee29a01cce0d5e",
       "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "05589a5b_cccc284d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1303432
+      },
+      "writtenOn": "2020-07-06T22:49:35Z",
+      "side": 1,
+      "message": "Honestly not sure for Google groups. Would have to do some digging. We largely just use Gerrit, MDB, or chrome-infra-auth groups on Chrome.\n\nIf you really think that committers is a fine list here I can approve, or you can file a ticket and the git admin can create an appropriate group for you and you can abandon this.",
+      "parentUuid": "ff03a31f_30f51ee5",
+      "revId": "c3af1aadce4e7963fc4f896b94ee29a01cce0d5e",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba",
+      "unresolved": false
     }
   ]
 }

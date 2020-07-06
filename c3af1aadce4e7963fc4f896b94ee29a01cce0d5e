@@ -16,6 +16,24 @@
       "revId": "c3af1aadce4e7963fc4f896b94ee29a01cce0d5e",
       "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff03a31f_30f51ee5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1144344
+      },
+      "writtenOn": "2020-07-06T19:32:20Z",
+      "side": 1,
+      "message": "Yes, we are aware that code review and OWNERS would be bypassed.\n\nIs https://groups.google.com/a/google.com/g/chrome-reader-mode better? What\u0027s the syntax for it? Thanks for the go/fix-chrome-git link. I\u0027ll use it next time.",
+      "parentUuid": "7975fde6_eaaebd3e",
+      "revId": "c3af1aadce4e7963fc4f896b94ee29a01cce0d5e",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba",
+      "unresolved": false
     }
   ]
 }

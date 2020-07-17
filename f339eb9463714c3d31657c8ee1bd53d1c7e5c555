@@ -16,6 +16,23 @@
       "revId": "f339eb9463714c3d31657c8ee1bd53d1c7e5c555",
       "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "55cfd8ee_53e3c033",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000678
+      },
+      "writtenOn": "2020-07-17T18:10:03Z",
+      "side": 1,
+      "message": "Confirmed that after patching in \"Use code review in DOM distiller dist repo\"\n(http://crrev.com/c/2304338), then running this command validates correctly:\n\nthird_party/dom_distiller_js/update_domdistiller_js.sh \\\n  3eef8a0ce4 \\\n  https://chromium-review.googlesource.com/c/chromium/dom-distiller/dist/+/2304339\n\nOutput is:\n\nPASS. The output is the same as https://chromium-review.googlesource.com/c/chromium/dom-distiller/dist/+/2304339\n",
+      "revId": "f339eb9463714c3d31657c8ee1bd53d1c7e5c555",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba",
+      "unresolved": false
     }
   ]
 }

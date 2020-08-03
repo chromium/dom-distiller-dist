@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "8f286065_9f8d9210",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 5
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1003232
+      },
+      "writtenOn": "2020-08-03T22:15:47Z",
+      "side": 1,
+      "message": "Fair enough, I made up the wording :). \n\nWhat I meant is \"something I stumbled over while trying to get stuff to work under Python 3\". \n\nThe code will need to (and should) work simultaneously under both 2 and 3 for quite some time.\n\nI will re-word this to be clearer.",
+      "parentUuid": "0487f243_261df339",
+      "range": {
+        "startLine": 7,
+        "startChar": 6,
+        "endLine": 7,
+        "endChar": 17
+      },
+      "revId": "bda4ebdeab7185865846779b83d457a378406ef5",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "0a3497fd_bf2b4a84",
         "filename": "python/plugin_pb2.py",
         "patchSetId": 5
@@ -36,6 +60,30 @@
       "writtenOn": "2020-08-03T21:59:34Z",
       "side": 1,
       "message": "Does it work if you checkout python/plugin_pb2.py at bdf359537190956aabf32826bf33a0ff05b574ac? https://chromium.googlesource.com/chromium/dom-distiller/dist/+/bdf359537190956aabf32826bf33a0ff05b574ac/python/plugin_pb2.py\n\nThat version looks compatible in both python2 and python3.\n\nThe last roll was blocked by crbug/874509, but we can give it another try.",
+      "range": {
+        "startLine": 20,
+        "startChar": 0,
+        "endLine": 24,
+        "endChar": 0
+      },
+      "revId": "bda4ebdeab7185865846779b83d457a378406ef5",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "61ffc579_b443e1d7",
+        "filename": "python/plugin_pb2.py",
+        "patchSetId": 5
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1003232
+      },
+      "writtenOn": "2020-08-03T22:15:47Z",
+      "side": 1,
+      "message": "I will try it out and let you know. There is no PFQ now, so maybe you\u0027ll get lucky :).",
+      "parentUuid": "0a3497fd_bf2b4a84",
       "range": {
         "startLine": 20,
         "startChar": 0,

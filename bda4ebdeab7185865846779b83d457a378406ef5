@@ -117,6 +117,30 @@
       "revId": "bda4ebdeab7185865846779b83d457a378406ef5",
       "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "214c81db_33ea3fa5",
+        "filename": "python/plugin_pb2.py",
+        "patchSetId": 5
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1003232
+      },
+      "writtenOn": "2020-08-03T22:37:09Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "61ffc579_b443e1d7",
+      "range": {
+        "startLine": 20,
+        "startChar": 0,
+        "endLine": 24,
+        "endChar": 0
+      },
+      "revId": "bda4ebdeab7185865846779b83d457a378406ef5",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba",
+      "unresolved": false
     }
   ]
 }

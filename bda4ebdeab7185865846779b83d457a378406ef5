@@ -49,6 +49,30 @@
     },
     {
       "key": {
+        "uuid": "d87ebfbb_435ae9cc",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 5
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1144344
+      },
+      "writtenOn": "2020-08-03T22:34:05Z",
+      "side": 1,
+      "message": "Thanks!",
+      "parentUuid": "8f286065_9f8d9210",
+      "range": {
+        "startLine": 7,
+        "startChar": 6,
+        "endLine": 7,
+        "endChar": 17
+      },
+      "revId": "bda4ebdeab7185865846779b83d457a378406ef5",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "0a3497fd_bf2b4a84",
         "filename": "python/plugin_pb2.py",
         "patchSetId": 5

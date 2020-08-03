@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8d153826_3df227f3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1144344
+      },
+      "writtenOn": "2020-08-03T22:34:05Z",
+      "side": 1,
+      "message": "lgtm. Feel free to land this to unblock your work. I\u0027ll roll the script if it works as well, but rolling it still has a small probability of getting reverted.",
+      "revId": "dbdf8e3e1b09eeb32c9920626b25a483b40328a0",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba",
+      "unresolved": false
+    }
+  ]
+}
